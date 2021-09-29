@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Fischer
 
-#### I'm a fullstack developer, Reseller, Gamer, and Father of one 👶 (so far). I love learning new technologies my current tech addictions are React, and ASP.NET Core. 
+#### I'm a Fullstack Developer, Reseller, Gamer, and Father of one 👶 (so far). I love learning new technologies my current tech addictions are React, and ASP.NET Core. 
 
 ## Tech
 
