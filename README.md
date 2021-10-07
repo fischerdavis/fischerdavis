@@ -1,8 +1,8 @@
-### 👋 Hi, I’m Fischer
-I'm a Fullstack Developer, Reseller, Gamer, and Father of one 👶.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi, I’m Fischer
+I'm a Husband, Father, Fullstack Developer, Reseller, and Gamer!
 
+- Currently 
 ## Tech
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
