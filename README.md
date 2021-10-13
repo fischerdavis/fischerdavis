@@ -1,5 +1,5 @@
 ## Hi, I’m Fischer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-I'm a Husband, Father, Fullstack Developer, and Gamer! I currently work as a fullstack developer in the IoT space developing solutions for customers to make their facilities just a little bit smarter.
+I'm a Husband, Father, Fullstack Developer, and Gamer!
 
 ## Tech 👨‍💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
