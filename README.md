@@ -29,5 +29,5 @@ I'm a Husband, Father, Fullstack Developer, and Gamer!
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischerdavis&layout=compact&" alt="Top language used in my repos" />
 
 ## Links 🌐
+- <a href="https://fischerdavis.com">fischerdavis.com</a>
 - <a href="https://linkedin.com/in/fischerdavis">Linkedin</a>
-<!-- - <a href="https://fischerdavis.com">My Website</a> -->
