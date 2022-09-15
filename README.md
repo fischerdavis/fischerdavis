@@ -1,5 +1,8 @@
 ## Hi, I’m Fischer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-I'm a Husband, Father, Fullstack Developer, and Gamer!
+I'm a fullstack developer currently in the law software industry! Professionally I have used React with Redux, C# .Net, MSSQL, Javascript, and Docker.
+Outside of work I have recently started using the t3-stack which uses Nextjs with Typescript, Prisma ORM, tRPC, and PlanetScale (MySQL).
+
+I'm currently learning Blockchain development with Solidity as well!
 
 ## Tech 👨‍💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -25,5 +28,4 @@ I'm a Husband, Father, Fullstack Developer, and Gamer!
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischerdavis&layout=compact&" alt="Top language used in my repos" />
 
 ## Links 🌐
-- <a href="https://fischerdavis.com">fischerdavis.com</a>
 - <a href="https://linkedin.com/in/fischerdavis">Linkedin</a>
