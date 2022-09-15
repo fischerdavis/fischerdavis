@@ -1,6 +1,10 @@
 ## Hi, I’m Fischer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 I'm a fullstack developer currently in the law software industry!
+\
+\
 Professionally I have used React with Redux, C# .Net, MSSQL, Javascript, and Docker.
+\
+\
 Outside of work I use the t3-stack which uses Nextjs with Typescript, Prisma ORM, tRPC, and PlanetScale (MySQL).
 
 I'm currently learning Blockchain development with Solidity as well!
