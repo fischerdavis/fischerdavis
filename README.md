@@ -5,7 +5,7 @@ I'm a fullstack developer currently in the law software industry!
 Professionally I have used React with Redux, C# .Net, MSSQL, Javascript, and Docker.
 \
 \
-Outside of work I use the t3-stack which uses Nextjs with Typescript, Prisma ORM, tRPC, and PlanetScale (MySQL).
+Outside of work I use the t3-stack which uses Nextjs with Typescript, Prisma ORM, tRPC, tailwind css, and PlanetScale (MySQL).
 
 I'm currently learning Blockchain development with Solidity as well!
 
@@ -27,7 +27,9 @@ I'm currently learning Blockchain development with Solidity as well!
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Stats 📈
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischerdavis&layout=compact&" alt="Top language used in my repos" />
