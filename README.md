@@ -7,8 +7,6 @@ Professionally I have used React with Redux, C# .Net, MSSQL, Javascript, and Doc
 \
 Outside of work I use the t3-stack which uses Nextjs with Typescript, Prisma ORM, tRPC, tailwind css, and PlanetScale (MySQL).
 
-I'm currently learning Blockchain and Solidity!
-
 ## Tech 👨‍💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
