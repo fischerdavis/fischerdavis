@@ -1,8 +1,8 @@
 ## Hi, I’m Fischer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-I'm a fullstack developer currently in the law software industry!
+I'm a fullstack developer currently in the Law Fintech!
 \
 \
-Professionally I have used React with Redux, C# .Net, MSSQL, Javascript, and Docker.
+Professionally I use React with Redux, C# .Net, MSSQL, Javascript, and Docker.
 \
 \
 Outside of work I use the t3-stack which uses Nextjs with Typescript, Prisma ORM, tRPC, tailwind css, and PlanetScale (MySQL).
@@ -30,7 +30,7 @@ Outside of work I use the t3-stack which uses Nextjs with Typescript, Prisma ORM
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Stats 📈
-<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischerdavis&layout=compact&" alt="Top language used in my repos" />
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischerdavis&layout=compact&count_private=true" alt="Top language used in my repos" />
 
 ## Links 🌐
 - <a href="https://linkedin.com/in/fischerdavis">Linkedin</a>
