@@ -5,7 +5,7 @@ I'm a fullstack developer currently in the Law Fintech!
 Professionally I use React with Redux, C# .Net, MSSQL, Javascript, and Docker.
 \
 \
-Outside of work I use the t3-stack which uses Nextjs with Typescript, Prisma ORM, tRPC, tailwind css, and PlanetScale (MySQL).
+Outside of work I use the t3-stack which uses Nextjs with Typescript, Prisma ORM, tRPC, Tailwind CSS, and PlanetScale (MySQL).
 
 ## Tech 👨‍💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
